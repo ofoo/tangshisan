@@ -11,6 +11,8 @@ public class TangshisanApplicationTests {
 
     @Test
     public void contextLoads() {
+        int v = Math.abs(202 - 201);
+        System.out.println(v);
     }
 
 }
